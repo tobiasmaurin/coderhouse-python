@@ -1,0 +1,8 @@
+setup.py
+TuModeloDeClientes_Maurin.egg-info/PKG-INFO
+TuModeloDeClientes_Maurin.egg-info/SOURCES.txt
+TuModeloDeClientes_Maurin.egg-info/dependency_links.txt
+TuModeloDeClientes_Maurin.egg-info/top_level.txt
+modulos/__init__.py
+modulos/clientes.py
+modulos/main.py
